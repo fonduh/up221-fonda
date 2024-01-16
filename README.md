@@ -1,3 +1,5 @@
+This is Fonda Hu's repository for UP221 - Introduction to GIS and Spatial Data Science
+
 ### 👋 intro 
 Hi! My name is Fonda. I'm a third-year @ UCLA majoring in math/econ major with an urban and regional studies minor. 
 After completing undergrad, I want to pursue a graduate degree in urban planning - if you have any insight or advice to share, I'd love to chat! 🥳
